@@ -1,3 +1,6 @@
+# Glass Morphism Card Design Using Only | HTML and CSS
+
+
 ▱tieflab▰ Website: http://www.tieflab.tech
 
 join Member: https://www.youtube.com/channel/tiefsoftwarelab/join
@@ -11,7 +14,7 @@ Check out: http://www.tieflab.tech/contact
     or
 Contact me at: tieflab@gmail.com
 
-- Support My Works Here!
+# - Support My Works Here!
 
 Donate `пожертвовать` https://www.donationalerts.com/r/tieflabspay
 
@@ -21,7 +24,7 @@ Buy me a coffee: https://www.buymeacoffee.com/tieflabsPay
 
 Donate via PayPal: https://www.paypal.com/donate/?hosted_button_id=PDR3N9YRT4GAN
 
-You can also support me by grab some `▱tieflab▰` T-shirts... in my march.
+# You can also grab some `▱tieflab▰` T-shirts... in my march.
 
 - https://tieflabs-pay.creator-spring.com
 
@@ -29,13 +32,13 @@ You can also support me by grab some `▱tieflab▰` T-shirts... in my march.
 
 - https://streamlabs.com/tieflabspay/merch
 
-- Software And hardware.
+# - Software And hardware.
 
 ↪️︎ Programing Channel: https://www.youtube.com/channel/UCGpdA6jZMwot-Ot7MIPEYLw/videos?sub_confirmation=1
 
 ↪️︎ Electronics Channel: https://www.youtube.com/channel/UCV2zh74lrmKON87GTbKZHdw/videos?sub_confirmation=1
 
-- Social-Medias
+# - Social-Medias
 
 Telegram: https://t.me/tiefsoftwarelab
 
@@ -48,28 +51,27 @@ Twitter:  https://www.twitter.com/tiefsoftwarelab
 Pinterest: https://www.pinterest.com/tiefsoftwarelab
 
 
-- WATCH MORE, WEBSITE FULL TUTORIALS | HTML AND CSS
+# - WATCH MORE, WEBSITE FULL TUTORIALS | HTML AND CSS
 
-How to create Awesome Rate Star  from HTML, CSS and JavaScript
+How to create Awesome Rate Star  from `HTML, CSS` and JavaScript
 https://youtu.be/xt1EVDOWV3c
 
 How To Make A Simple Animated Website: Step By Step Full Tutorial 
 https://youtu.be/CbukcQ3Tuc8
 
-How To make  A Simple Website:  Step by Step HTML and CSS 
+How To make  A Simple Website:  Step by Step `HTML and CSS` 
 https://youtu.be/VaFI_syujJ8
 
-How To Build and deploy a portfolio website Maria | HTML and CSS
-
+How To Build and deploy a portfolio website Maria | `HTML and CSS`
 https://youtu.be/yG64aIW85ss
 
-How  Build an E-Commerce Website  HTML & CSS Shop Web design 
+How  Build an E-Commerce Website  `HTML & CSS` Shop Web design 
 https://youtu.be/lnlb1BI7734
 
-Download Project codes hosted.
+# Download Project codes hosted.
 🔽 GitHub: https://github.com/tieflabs
 
 🔽 Images:  https://t.me/tiefsoftwarelab
 
-Thank you for support!
+# Thank you for support!
 ▱tieflab▰ https://www.tieflab.tech
