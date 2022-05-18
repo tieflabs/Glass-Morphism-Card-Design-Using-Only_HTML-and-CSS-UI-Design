@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.avater{
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	border: 1px solid blue;
+}
+/*img{
+	height: 50px;
+	width: 50px;
+}
+*/
+/*________________________________*/
+
+.container{
+	backdrop-filter: blur(1px);
+	width: 100%;
+	height: 100vh;
+	background-image: url(bg1.jpg);
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.card{
+	max-width: 320px;
+	color: #fff;
+	text-align: center;
+	padding: 65px 35px;
+	border: 1px solid rgba(255,255,255,0.3);
+	background: rgba(255,255,255,0.2);
+	box-shadow: 0 4px 30px rgba(0,0,0,0.1);
+	backdrop-filter: blur(10px);
+	border-radius: 16px;
+}
+.card .avater{
+	width: 110px;
+	height: 110px;
+}
+.card h2{
+	font-size: 40px;
+	font-weight: 600;
+	margin-top: 20px;
+	text-decoration: capitalize;
+}
+.card p{
+	font-size: 18px;
+	margin: 10px auto;
+	max-width: 330px;
+}
+.card .icons img{
+	width: 40px;
+	height: 40px;
+	margin: 8px 1px 4px;
+	padding: 2px;
+	border-radius: 50%;
+}
+.card .icons img:hover{
+	border-radius: 50%;
+	background-color: blue;
+}
+.calls{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
+	font-weight: 600;
+	background-color: #fff;
+	color: #154498;
+	padding: 10px 30px;
+	border-radius: 30px;
+	margin: 20px 0 0px;
+	text-transform: uppercase;
+}
+span{
+	font-size: 18px;
+	font-weight: 500;
+	color: blue;
+	font-family: 'Odibee Sans', sans-serif;
+}
